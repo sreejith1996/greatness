@@ -1,0 +1,11 @@
+img{
+	padding-top: 10px;
+}
+
+.contact_no{
+	border:1px solid #666;
+	box-shadow: 10px 10px 10px #666;
+	font-family: Sans-serif;
+	font-weight: bold;
+	padding:5px;
+}

@@ -1,0 +1,9 @@
+.lyric_img img{
+	margin-top: 35px;
+}
+
+.actual_lyric {
+	background-color: #141414;
+	line-height: 30px;	
+	color:white;
+}
