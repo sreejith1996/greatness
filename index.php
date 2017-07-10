@@ -440,26 +440,26 @@ $fields = isset($_SESSION['fields']) ? $_SESSION['fields'] : array();
                 </div>
                 <div id="clients" class="owl-carousel owl-theme">
                     <div class="item">
-                        <a href="http://www.desirappershow.com/" target="_blank"><img src="img/client/01.jpg" class="img-responsive"></a>
+                        <a href="http://www.desirappershow.com/" target="_blank"><img src="images/client/01.jpg" class="img-responsive"></a>
                     </div>
                     <div class="item">
-                        <a href="https://www.youtube.com/channel/UCs0nH1xScaQMISJBhiSmj6w" target="_blank"><img src="img/client/02.jpg" class="img-responsive"></a>
+                        <a href="https://www.youtube.com/channel/UCs0nH1xScaQMISJBhiSmj6w" target="_blank"><img src="images/client/02.jpg" class="img-responsive"></a>
                     </div>
                     <div class="item">
-                       <a href="https://www.facebook.com/artofdikshantkumar" target="_blank"> <img src="img/client/03.jpg" class="img-responsive"></a>
+                       <a href="https://www.facebook.com/artofdikshantkumar" target="_blank"> <img src="images/client/03.jpg" class="img-responsive"></a>
                     </div>
                     <div class="item">
-                       <a href="https://www.facebook.com/thhmcore" target="_blank"> <img src="img/client/04.png" class="img-responsive"></a>
+                       <a href="https://www.facebook.com/thhmcore" target="_blank"> <img src="images/client/04.png" class="img-responsive"></a>
                     </div>
                     <div class="item">
-                      <a href="http://www.desihiphop.com/" target="_blank"> <img src="img/client/05.png" class="img-responsive"></a>
+                      <a href="http://www.desihiphop.com/" target="_blank"> <img src="images/client/05.png" class="img-responsive"></a>
                     </div>
                     <div class="item">
-                       <a href="https://www.facebook.com/UMLeague/" target="_blank"> <img src="img/client/06.jpg" class="img-responsive"></a>
+                       <a href="https://www.facebook.com/UMLeague/" target="_blank"> <img src="images/client/06.jpg" class="img-responsive"></a>
                     </div>
                     <div class="item">
                         <div class="down">
-                       <a href="https://www.facebook.com/SlumGods" target="_blank"> <img src="img/client/07.jpg" class="img-responsive"></a>
+                       <a href="https://www.facebook.com/SlumGods" target="_blank"> <img src="images/client/07.jpg" class="img-responsive"></a>
                         </div>
                     </div>
                 </div>
